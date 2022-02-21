@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![5p1K3-wq
- LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=5p1K3-wq
-&theme=dark)](https://github.com/5p1K3-wq
-/leetcode-stats)
+[![5p1K3-wq LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=5p1K3-wq)](https://github.com/5p1K3-wq/github-readme)
